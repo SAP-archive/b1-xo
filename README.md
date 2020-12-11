@@ -2,7 +2,7 @@
 
 
 # Integrates Qualtrics Survey Responses to SAP Business One
-[![Read more here](https://blogs.sap.com/2020/03/19/customer-experience-live-in-rio/)]()
+[![Read more here](https://blogs.sap.com/wp-content/uploads/2020/03/three_pieces.jpg)](https://blogs.sap.com/2020/03/19/customer-experience-live-in-rio/)
 
 ## Description
 This application Integrates Qualtrics Survey Responses to SAP Business One.
