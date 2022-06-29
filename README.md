@@ -1,5 +1,5 @@
 [![License: Apache2](https://img.shields.io/badge/License-Apache2-green.svg)](https://opensource.org/licenses/Apache-2.0)
-[![REUSE status](https://api.reuse.software/badge/github.com/B1SA/b1-xo)](https://api.reuse.software/info/github.com/B1SA/b1-xo)
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/b1-xo)](https://api.reuse.software/info/github.com/SAP-samples/b1-xo)
 
 # Integrates Qualtrics Survey Responses to SAP Business One
 [![Read full details here](https://blogs.sap.com/wp-content/uploads/2020/03/three_pieces.jpg)](https://blogs.sap.com/2020/03/19/customer-experience-live-in-rio/)
