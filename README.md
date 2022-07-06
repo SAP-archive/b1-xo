@@ -20,7 +20,7 @@ From its root folder, open the terminal, login to your SCP account and push it.
 ```bash
 cf push --random-route
 ```
-For details on how to deploy apps on SCP CF check this tutorial: [Get Started with SAP Cloud Platform Trial](https://developers.sap.com/tutorials/cp-trial-quick-onboarding.html)
+For details on how to deploy apps on SCP CF check this tutorial: [Get Started with SAP Business Technology Platform Trial](https://developers.sap.com/tutorials/cp-trial-quick-onboarding.html)
 
 ## Support and Contributions
 This repository is provided "as-is". No warranty or support is available. Feel free to open issues.
